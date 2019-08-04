@@ -9,7 +9,7 @@ layout: null
 
 body {
   font-family: 'Roboto', 'Noto Sans TC', 'Noto Sans SC', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-size: 18px;
+  font-size: 16px;
   color: #333;
   position: relative;
   background-color: {{ site.page-col }};
@@ -20,6 +20,11 @@ body {
   background-image: url({{ site.page-img | relative_url }});
   background-attachment: fixed;
   {% endif %}
+}
+@media only screen and (min-width: 450px) {
+  body {
+    font-size: 18px;
+  }
 }
 body .container {
   flex: auto;
@@ -393,7 +398,14 @@ footer .theme-by {
 }
 .post-entry {
   width: 100%;
+  font-size: 1.4rem;
 }
+@media only screen and (min-width: 450px) {
+  .post-entry {
+    font-size: 1.6rem;
+  }
+}
+
 .post-image {
   float: right;
   /* height: 192px;
@@ -412,6 +424,7 @@ footer .theme-by {
 }
 .post-preview .post-read-more {
   font-weight: 800;
+  font-size: initial !important;
 }
 
 @media only screen and (min-width: 768px) {
@@ -815,11 +828,11 @@ pre {
 }
 
 #full-tags-list .tag-entry {
-  margin: 0 0 15px 25px;
+  margin: 0 0 15px 0px;
 }
 
 #full-tags-list .tag-entry a {
-  font-size: 20px;
+  font-size: 2rem;
 }
 
 #full-tags-list .tag-entry .entry-date {
