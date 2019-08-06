@@ -5,7 +5,7 @@ subtitle: K2 下學期，擦身而過的遭遇戰
 date: 2019-07-24 00:00:00 +0800
 image: img/life/p1-admission.png
 bigimg: img/life/p1-admission.png
-tag: Life
+tag:  [Life, 小一大戰]
 ---
 
 小女入到理想學校，實在難得。所以就寫寫今年小一大戰的感受，內容會分開幾篇寫，這樣文章結構上可以做得好一些，也避免文章看上去感覺冗長。
