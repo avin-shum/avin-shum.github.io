@@ -27,7 +27,12 @@ description: Blog
 navbar-links:
   # Author's home: "http://deanattali.com"
   # Work: "work"
-  Life: "tags/#life"
+  Life: "tags/life"
+  Work:
+    - Productivity: "tags/productivity"
+    - Technology: "tags/technology"
+  Play:
+    - Langrisser: "tags/langrisser"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"

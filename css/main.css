@@ -23,6 +23,7 @@ body {
 }
 body .container {
   flex: auto;
+  width: 100%;
 }
 p {
   line-height: 1.5;
@@ -854,4 +855,10 @@ pre {
 
 .flex-wrap {
   flex-wrap: wrap;
+}
+
+.center-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
