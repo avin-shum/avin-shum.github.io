@@ -25,7 +25,7 @@ layout: page
     {%- for post in site.tags[tag] -%}
     <div class="tag-entry post-preview">
       <div
-        class="d-flex flex-row flex-wrap"
+        class="d-flex flex-row flex-wrap align-items-baseline"
         style="border-bottom: 1px solid #ccc; margin-bottom: 16px"
       >
         <h2 class="post-title" style="margin-right: auto">
@@ -45,7 +45,7 @@ layout: page
         post.content != post.excerpt or excerpt_word_count > site.excerpt_length
         %}
         <a href="{{ post.url | relative_url }}" class="post-read-more"
-          >[Read&nbsp;More]</a
+          ><small>[Read&nbsp;More]</small></a
         >
         {% endif %}
       </div>

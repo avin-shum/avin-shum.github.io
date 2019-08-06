@@ -4,6 +4,9 @@
 markdown: kramdown
 theme: minima
 remote_theme: avin-shum/beautiful-jekyll
+sass:
+  sass_dir: _sass
+  style: compressed
 
 # Name of website
 title: Avin Shum
@@ -27,7 +30,10 @@ description: Blog
 navbar-links:
   # Author's home: "http://deanattali.com"
   # Work: "work"
-  Life: "tags/#life"
+  Life: "tags/life"
+  Work:
+    - Productivity: "tags/productivity"
+    - Technology: "tags/technology"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
@@ -50,7 +56,7 @@ navbar-col: "mediumblue"
 navbar-text-col: "white"
 navbar-children-col: "blue"
 navbar-hover-col: "lightgray"
-page-col: "#FFFFFF"
+page-col: "#fdfdfd"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "lavender"

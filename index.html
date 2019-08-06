@@ -23,7 +23,7 @@ bigimg: img/avin-shum-wide.jpg
     >
       <a
         href="{{ post.url | relative_url }}"
-        class="d-flex flex-row flex-wrap"
+        class="d-flex flex-row flex-wrap align-items-baseline"
         style="margin-right: auto;"
       >
         <h2 class="post-title">
@@ -35,7 +35,7 @@ bigimg: img/avin-shum-wide.jpg
         {% endif %}
       </a>
 
-      <p class="post-meta" style="margin: auto 0;">
+      <p class="post-meta"">
         Posted on {{ post.date | date: '%B %-d, %Y' }}
       </p>
     </div>
@@ -56,7 +56,7 @@ bigimg: img/avin-shum-wide.jpg
         post.content != post.excerpt or excerpt_word_count > site.excerpt_length
         %}
         <a href="{{ post.url | relative_url }}" class="post-read-more"
-          >[Read&nbsp;More]</a
+          ><small>[Read&nbsp;More]</small></a
         >
         {% endif %}
       </div>
@@ -65,7 +65,7 @@ bigimg: img/avin-shum-wide.jpg
     {% if post.tags.size > 0 %}
     <div class="blog-tags">
       Tags: {% if site.link-tags %} {% for tag in post.tags %}
-      <a href="{{ '/tags' | relative_url }}#{{- tag -}}">{{- tag -}}</a>
+      <a href="{{ '/tags' | relative_url }}/{{- tag | downcase -}}">{{- tag -}}</a>
       {% endfor %} {% else %}
       {{ post.tags | join: ', ' }}
       {% endif %}
