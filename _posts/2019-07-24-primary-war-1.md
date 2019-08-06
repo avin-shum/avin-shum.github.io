@@ -24,7 +24,7 @@ tag:  [Life, 小一大戰]
 
 > 孩子要被好的學校取錄。
 
-![https://unsplash.com/photos/fzOITuS1DIQ](https://source.unsplash.com/fzOITuS1DIQ){: .full-width }
+![](https://images.freeimages.com/images/large-previews/ec3/soccer-strategy-1504517.jpg){: .full-width }
 
 ---
 
