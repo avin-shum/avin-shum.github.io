@@ -5,30 +5,36 @@ subtitle: K2 下學期，擦身而過的遭遇戰
 date: 2019-07-24 00:00:00 +0800
 image: img/life/p1-admission.png
 bigimg: img/life/p1-admission.png
-tag: Life
+tag: [Life, 小一大戰]
 ---
 
 小女入到理想學校，實在難得。所以就寫寫今年小一大戰的感受，內容會分開幾篇寫，這樣文章結構上可以做得好一些，也避免文章看上去感覺冗長。
 
 - [小一大戰 I - 直私前哨戰](../2019-07-24-primary-war-1)
-- 小一大戰 II - 自行的伏線
-- 小一大戰 III - 統一大混戰
-- 小一大戰 IV - 叩門大戰略
-- 小一大戰 V - 明日之後
+- [小一大戰 II - 自行的抉擇](../2019-09-11-primary-war-2)
+- [小一大戰 III - 統一大抽獎](../2019-10-03-primary-war-3)
+- [小一大戰 IV - 叩門大混戰](../2019-11-21-primary-war-4)
+- [小一大戰 V - 明日之後](../2020-03-24-primary-war-5)
 
-## 0. 終極戰略目標
+![大原則](https://images.freeimages.com/images/large-previews/ec3/soccer-strategy-1504517.jpg){: .full-width }
 
-故事開始之前，先講講所謂終極戰略目標，就是整場大戰作戰策略的根本，所有判斷都要以此為基準。
+## 0. 大原則
 
-目標要清晰、簡單、明確，用一句話表達，就是：
+其實所謂大原則，說起來得簡單，做起來可以很複雜，用一句話表達，就是：
 
 > 孩子要被好的學校取錄。
 
-![https://unsplash.com/photos/fzOITuS1DIQ](https://source.unsplash.com/fzOITuS1DIQ){: .full-width }
+所謂好，對每個人都可能不一樣，也可以隨時間、際遇不一樣，但無論如何大原則是不變的。
+
+要記得這場戰事為的是孩子，而不是你，所以即使面對逆境，也拜託不要在家裏上演「元首的憤怒」。
+
+![元首的憤怒](https://media1.tenor.com/images/7a7cf4a103b70a227fbc34506b1d3164/tenor.gif){: .quarter-width }
 
 ---
 
 **好了，現在進入正題，故事由小朋友 K2 下學期開始…… Once upon a time...**
+
+![決擇](https://source.unsplash.com/3jBU9TbKW7o){: .full-width }
 
 ## 1. 直私的決擇
 
@@ -45,7 +51,7 @@ tag: Life
 
 ## 2. 突如其來的警報
 
-那時是升K3前的七月初。
+那時是升 K3 前的七月初。
 
 幼稚園安排了一個有關升小的講座，講員(其實就是舊生家長)特別介紹了某直資學校，很多人報讀，學費很便宜，還說最近收生，所以我也去報一報試試看。
 
@@ -59,12 +65,13 @@ tag: Life
 
 但是因為當時沒有任何直私學位在手，結果就埋下了一年後瘋狂叩門的伏線……所以如果有能力去報讀直私的，真的強烈建議去報讀，即使你未必真的想報讀直私，留個學位當買個保險也好。
 
-而要報直私，就要早於K2下學期開始就要留意各小學的收生安排、開放日、座談會之類的時間表了。另外還要準備「戰衣」和Portfolio之類的道具，不是說要做得很豪華很誇張，但總不能沒有吧。時間上雖然有點早(還有一年半才畢業)，但是遊戲規則就是這樣沒有辦法，就當提早準備吧。
+而要報直私，就要早於 K2 下學期開始就要留意各小學的收生安排、開放日、座談會之類的時間表了。另外還要準備「戰衣」和 Portfolio 之類的道具，不是說要做得很豪華很誇張，但總不能沒有吧。時間上雖然有點早(還有一年半才畢業)，但是遊戲規則就是這樣沒有辦法，就當提早準備吧。
 
-![https://unsplash.com/photos/TAp9HueSlKQ](https://source.unsplash.com/TAp9HueSlKQ){: .full-width }
+![And so the adventure begins](https://source.unsplash.com/TAp9HueSlKQ){: .full-width }
 
 ## 4. 參考資料
-* [全港53間直資私小學費一覽 10大學費最平直資私立小學](https://www.sundaykiss.com/256692/education/%E5%AD%B8%E8%B2%BB%E6%9C%80%E5%B9%B3%E7%9B%B4%E8%B3%87%E7%A7%81%E7%AB%8B%E5%B0%8F%E5%AD%B8-%E5%85%A8%E6%B8%AF53%E9%96%93%E7%9B%B4%E8%B3%87%E7%A7%81%E5%B0%8F%E5%AD%B8%E8%B2%BB/)
-* [香港直資及私立小一入學申請時間表（適用於 2020 年九月入學）](https://www.schooland.hk/post/p1as2020)
 
-下一篇：小一大戰 II - 自行的伏線
+- [全港 53 間直資私小學費一覽 10 大學費最平直資私立小學](https://www.sundaykiss.com/256692/education/%E5%AD%B8%E8%B2%BB%E6%9C%80%E5%B9%B3%E7%9B%B4%E8%B3%87%E7%A7%81%E7%AB%8B%E5%B0%8F%E5%AD%B8-%E5%85%A8%E6%B8%AF53%E9%96%93%E7%9B%B4%E8%B3%87%E7%A7%81%E5%B0%8F%E5%AD%B8%E8%B2%BB/)
+- [香港直資及私立小一入學申請時間表（適用於 2020 年九月入學）](https://www.schooland.hk/post/p1as2020)
+
+下一篇：[小一大戰 II - 自行的抉擇](../2019-09-11-primary-war-2)
