@@ -4,6 +4,9 @@
 markdown: kramdown
 theme: minima
 remote_theme: avin-shum/beautiful-jekyll
+sass:
+  sass_dir: _sass
+  style: compressed
 
 # Name of website
 title: Avin Shum
