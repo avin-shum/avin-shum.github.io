@@ -354,7 +354,8 @@ footer .theme-by {
 
 @media only screen and (min-width: 768px) {
   .post-preview {
-    padding: 35px 0;
+    /* padding: 35px 0; */
+    padding: 20px 0;
   }
 }
 
@@ -557,7 +558,7 @@ footer .theme-by {
   padding: 5px 10px;
   font-size: 11px;
   color: #EEE;
-  font-family: 'DM Serif Display', 'Noto Serif TC', 'Noto Serif SC', 'Open Serif', 'Times New Roman', serif;
+  font-family: 'Roboto', 'Noto Sans TC', 'Noto Sans SC', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   right: 0;
   bottom: 0;
   display: none;
@@ -875,4 +876,8 @@ pre {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.align-items-baseline {
+  align-items: baseline;
 }
