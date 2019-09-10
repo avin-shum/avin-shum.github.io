@@ -71,6 +71,11 @@ article hr {
   margin-top: 3rem;
 }
 
+del, s {
+  font-size: 85%;
+  color: #bbb;
+}
+
 .main-content {
   padding-top: 80px;
 }

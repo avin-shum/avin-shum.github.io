@@ -18,6 +18,10 @@ img {
   filter: brightness(40%);
 }
 
+del, s {
+  font-size: 85%;
+}
+
 /* a {
   color: #2980b9;
 } */
