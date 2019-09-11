@@ -16,6 +16,10 @@ They are not perfect, however. I still need to use commands directly very often.
 
 As I learn Git commands from time to time, this list here will be updated often.
 
+## 0. Assumption
+
+- Remote repository is called `origin`
+
 ## 1. Configuration
 
 ### Set VSCode as default editor
@@ -34,8 +38,6 @@ git config --global core.editor "code -w"
 git config --global -e
 ```
 
-<!-- ![https://unsplash.com/photos/956I1peiMi4](https://source.unsplash.com/956I1peiMi4){: .full-width } -->
-
 ## 2. Branch
 
 ### Move a branch to target commit
@@ -44,6 +46,18 @@ _Note:_ If the branch name does not exist, it creates a new branch to the target
 
 ```shell
 git branch -f <branch-name> <target>
+```
+
+### Delete remote branch
+
+```shell
+git push origin --delete <branch-name>
+```
+
+### Push to a remote branch with a different branch name
+
+```shell
+git push origin <local-branch>:<remote-branch>
 ```
 
 ## 3. Rebase
@@ -63,7 +77,7 @@ git rebase -r <target>
 Merge with message to be edited by the edior, and make sure that there will be a merge path hierarchy
 
 ```shell
-git merge -e -no-ff <target>
+git merge -e --no-ff <target>
 ```
 
 ## 5. Stash
