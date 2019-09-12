@@ -861,6 +861,15 @@ pre {
   font-size: 16px;
 }
 
+.special-text {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  font-size-adjust: 150%;
+  margin: 50px;
+}
+
 /* Bootstrap 4 classes */
 .d-flex {
   display: flex;
