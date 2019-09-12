@@ -53,7 +53,7 @@ a:focus {
   color: {{ site.hover-col }};
 }
 blockquote {
-  color: #808080;
+  color: #555;
   font-style: italic;
 }
 blockquote p:first-child {
@@ -115,14 +115,27 @@ img::-moz-selection {
 
 img {
   max-width: 100%;
+  margin: auto;
 }
 
 img.full-width {
   width: 100%;
-  height: 50vw;
+  height: 50vh;
   max-height: 300px;
   display: block;
   object-fit: cover;
+}
+
+img.half-width {
+  width: 50%;
+  height: 50%;
+  display: block;
+}
+
+img.quarter-width {
+  width: 25%;
+  height: 25%;
+  display: block;
 }
 
 .disqus-comments {
