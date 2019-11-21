@@ -24,7 +24,7 @@ tag: [Life, 小一大戰]
 - [小一大戰 I - 直私前哨戰](../2019-07-24-primary-war-1)
 - [小一大戰 II - 自行的抉擇](../2019-09-11-primary-war-2)
 - [小一大戰 III - 統一大抽獎](../2019-10-03-primary-war-3)
-- 小一大戰 IV - 叩門大混戰
+- [小一大戰 IV - 叩門大混戰](../2019-11-21-primary-war-4)
 - 小一大戰 V - 明日之後
 
 ![人生如賭博](https://source.unsplash.com/6e_xnc-LAOg){: .full-width }
@@ -75,4 +75,4 @@ tag: [Life, 小一大戰]
 
 ![Documents](https://source.unsplash.com/OQMZwNd3ThU){: .full-width }
 
-下一篇：小一大戰 IV - 叩門大混戰
+下一篇：[小一大戰 IV - 叩門大混戰](../2019-11-21-primary-war-4)
