@@ -33,16 +33,22 @@ body .container {
 
 p {
   line-height: 1.5;
-  margin: 18px 0;
+  margin: 18px;
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: 'DM Serif Display', 'Noto Serif TC', 'Noto Serif SC', 'Open Serif', 'Times New Roman', serif;
   font-weight: 800;
+  padding-top: 78px;
+  margin-top: -78px;
 }
 
 h2 {
-  margin-top: 40px;
+  margin-top: -38px;
   border-bottom: 1px solid #ccc
+}
+
+h3 {
+  margin-top: -58px;
 }
 
 a {
