@@ -30,7 +30,9 @@ description: Blog
 navbar-links:
   # Author's home: "http://deanattali.com"
   # Work: "work"
-  Life: "tags/life"
+  Life:
+    - Life - General: "tags/life"
+    - 大航海時代VI: "tags/大航海時代VI"
   Work:
     - Productivity: "tags/productivity"
     - Technology: "tags/technology"

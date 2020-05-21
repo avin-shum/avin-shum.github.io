@@ -726,6 +726,10 @@ footer .theme-by {
 
 table {
   padding: 0;
+  margin: 20px 10px 30px;
+  font-size: smaller;
+  overflow-x: auto;
+  display: block;
 }
 table tr {
   border-top: 1px solid #cccccc;
@@ -748,6 +752,7 @@ table tr td {
   text-align: left;
   margin: 0;
   padding: 6px 13px;
+  word-break: keep-all;
 }
 table tr th :first-child,
 table tr td :first-child {
@@ -929,4 +934,8 @@ pre {
 
 .align-items-baseline {
   align-items: baseline;
+}
+
+.right-text {
+  text-align: right;
 }
