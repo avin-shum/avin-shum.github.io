@@ -939,3 +939,7 @@ pre {
 .right-text {
   text-align: right;
 }
+
+.alpha-list {
+  list-style-type: upper-alpha;
+}
