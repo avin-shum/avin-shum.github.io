@@ -58,6 +58,9 @@ a:hover,
 a:focus {
   color: {{ site.hover-col }};
 }
+b, strong {
+  color: black;
+}
 blockquote {
   color: #555;
   font-style: italic;
@@ -940,8 +943,17 @@ pre {
   align-items: baseline;
 }
 
+.center-text {
+  text-align: center;
+}
+
+
 .right-text {
   text-align: right;
+}
+
+.small-text {
+  font-size: small;
 }
 
 .alpha-list {
