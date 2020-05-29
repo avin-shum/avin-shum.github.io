@@ -955,6 +955,14 @@ pre {
   font-size: small;
 }
 
+.smaller-text {
+  font-size: smaller;
+}
+
+.red {
+  color: red;
+}
+
 .alpha-list {
   list-style-type: upper-alpha;
 }
