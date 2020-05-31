@@ -212,6 +212,9 @@ exclude:
   - README.md
   - Vagrantfile
 
+keep_files:
+  - uw6-ship-builder
+
 # prose.io config
 prose:
   rooturl: '_posts'
