@@ -1,7 +1,7 @@
 {
   "name": "大航海時代VI - 造船計算機",
   "short_name": "造船計算機",
-  "theme_color": "#3f51b5",
+  "theme_color": "#ffffff",
   "background_color": "#3f51b5",
   "display": "standalone",
   "scope": "./",

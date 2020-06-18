@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1592201929667,
+  "timestamp": 1592494099566,
   "index": "/daikoukaijidai6-ship-builder-staging/index.html",
   "assetGroups": [
     {
@@ -226,7 +226,7 @@
         "/daikoukaijidai6-ship-builder-staging/assets/image/龜甲.png",
         "/daikoukaijidai6-ship-builder-staging/favicon.ico",
         "/daikoukaijidai6-ship-builder-staging/index.html",
-        "/daikoukaijidai6-ship-builder-staging/main.50ef24ba32bdb70e8372.js",
+        "/daikoukaijidai6-ship-builder-staging/main.c47a03ad86040069477d.js",
         "/daikoukaijidai6-ship-builder-staging/manifest.webmanifest",
         "/daikoukaijidai6-ship-builder-staging/polyfills-es5.0cfcaf91ddae936d83a7.js",
         "/daikoukaijidai6-ship-builder-staging/polyfills.dc6689189a632f3d3ca7.js",
@@ -466,9 +466,9 @@
     "/daikoukaijidai6-ship-builder-staging/assets/image/黃銅.png": "2c74b95f4459138e014bdb9d1dcd1a192525ca03",
     "/daikoukaijidai6-ship-builder-staging/assets/image/龜甲.png": "007e609cc920247722f8ea73f3c320f0f18e4cc5",
     "/daikoukaijidai6-ship-builder-staging/favicon.ico": "e4311854820cd429a9e5ed9daab80b4a94e7f921",
-    "/daikoukaijidai6-ship-builder-staging/index.html": "d2435dfb672979376951df762fb800367d586b1a",
-    "/daikoukaijidai6-ship-builder-staging/main.50ef24ba32bdb70e8372.js": "1558b2535e65393cb785652d6588c50ad685ca18",
-    "/daikoukaijidai6-ship-builder-staging/manifest.webmanifest": "8dee6e0435bcc9c65e1abfea98b14779a6034cc1",
+    "/daikoukaijidai6-ship-builder-staging/index.html": "ecf198c8e69a09424e41a58d9a82a27188f2b97f",
+    "/daikoukaijidai6-ship-builder-staging/main.c47a03ad86040069477d.js": "37433d14c56415049eb0e8693f9ed38dfbc471fd",
+    "/daikoukaijidai6-ship-builder-staging/manifest.webmanifest": "abfde767a8849c8a18a570253a2fc997fabfb74a",
     "/daikoukaijidai6-ship-builder-staging/polyfills-es5.0cfcaf91ddae936d83a7.js": "d579f086e6369e2976d5e4afdf8789d3239c59a3",
     "/daikoukaijidai6-ship-builder-staging/polyfills.dc6689189a632f3d3ca7.js": "00d68f6bec8622ed1a323563d0a30dd7a541895c",
     "/daikoukaijidai6-ship-builder-staging/runtime.d2741b217894c678ba2b.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
