@@ -1,12 +1,15 @@
 {
   "configVersion": 1,
-  "timestamp": 1592494099566,
+  "timestamp": 1593679869112,
   "index": "/daikoukaijidai6-ship-builder-staging/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
       "urls": [
         "/daikoukaijidai6-ship-builder-staging/assets/icons/icon-128x128.png",
         "/daikoukaijidai6-ship-builder-staging/assets/icons/icon-144x144.png",
@@ -226,13 +229,13 @@
         "/daikoukaijidai6-ship-builder-staging/assets/image/龜甲.png",
         "/daikoukaijidai6-ship-builder-staging/favicon.ico",
         "/daikoukaijidai6-ship-builder-staging/index.html",
-        "/daikoukaijidai6-ship-builder-staging/main.c47a03ad86040069477d.js",
+        "/daikoukaijidai6-ship-builder-staging/main.d085909b7c0ec8b8606f.js",
         "/daikoukaijidai6-ship-builder-staging/manifest.webmanifest",
-        "/daikoukaijidai6-ship-builder-staging/polyfills-es5.0cfcaf91ddae936d83a7.js",
-        "/daikoukaijidai6-ship-builder-staging/polyfills.dc6689189a632f3d3ca7.js",
-        "/daikoukaijidai6-ship-builder-staging/runtime.d2741b217894c678ba2b.js",
+        "/daikoukaijidai6-ship-builder-staging/polyfills-es5.9187d4e93538f2722717.js",
+        "/daikoukaijidai6-ship-builder-staging/polyfills.497f930c1fea36763f13.js",
+        "/daikoukaijidai6-ship-builder-staging/runtime.c51bd5b1c616d9ffddc1.js",
         "/daikoukaijidai6-ship-builder-staging/scripts.7abc37487a3ab75a4e84.js",
-        "/daikoukaijidai6-ship-builder-staging/styles.a2e3c4fbb0f2a79de815.css"
+        "/daikoukaijidai6-ship-builder-staging/styles.80847a23afe7b91b11a0.css"
       ],
       "patterns": []
     },
@@ -240,6 +243,9 @@
       "name": "assets",
       "installMode": "prefetch",
       "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
       "urls": [],
       "patterns": [
         "\\/daikoukaijidai6-ship-builder-staging\\/(?:.+\\/)?assets\\/.*",
@@ -466,14 +472,14 @@
     "/daikoukaijidai6-ship-builder-staging/assets/image/黃銅.png": "2c74b95f4459138e014bdb9d1dcd1a192525ca03",
     "/daikoukaijidai6-ship-builder-staging/assets/image/龜甲.png": "007e609cc920247722f8ea73f3c320f0f18e4cc5",
     "/daikoukaijidai6-ship-builder-staging/favicon.ico": "e4311854820cd429a9e5ed9daab80b4a94e7f921",
-    "/daikoukaijidai6-ship-builder-staging/index.html": "ecf198c8e69a09424e41a58d9a82a27188f2b97f",
-    "/daikoukaijidai6-ship-builder-staging/main.c47a03ad86040069477d.js": "37433d14c56415049eb0e8693f9ed38dfbc471fd",
+    "/daikoukaijidai6-ship-builder-staging/index.html": "8d8935272d4255d9bd66c0d3617f15226940fe02",
+    "/daikoukaijidai6-ship-builder-staging/main.d085909b7c0ec8b8606f.js": "6f5d33bbc13c17f5e605e4b4d2954293e505018d",
     "/daikoukaijidai6-ship-builder-staging/manifest.webmanifest": "abfde767a8849c8a18a570253a2fc997fabfb74a",
-    "/daikoukaijidai6-ship-builder-staging/polyfills-es5.0cfcaf91ddae936d83a7.js": "d579f086e6369e2976d5e4afdf8789d3239c59a3",
-    "/daikoukaijidai6-ship-builder-staging/polyfills.dc6689189a632f3d3ca7.js": "00d68f6bec8622ed1a323563d0a30dd7a541895c",
-    "/daikoukaijidai6-ship-builder-staging/runtime.d2741b217894c678ba2b.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/daikoukaijidai6-ship-builder-staging/polyfills-es5.9187d4e93538f2722717.js": "d579f086e6369e2976d5e4afdf8789d3239c59a3",
+    "/daikoukaijidai6-ship-builder-staging/polyfills.497f930c1fea36763f13.js": "00d68f6bec8622ed1a323563d0a30dd7a541895c",
+    "/daikoukaijidai6-ship-builder-staging/runtime.c51bd5b1c616d9ffddc1.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "/daikoukaijidai6-ship-builder-staging/scripts.7abc37487a3ab75a4e84.js": "5e54f22b9ff1a21a4571a1e25dc2ad15b1b31c53",
-    "/daikoukaijidai6-ship-builder-staging/styles.a2e3c4fbb0f2a79de815.css": "5fc379578c1ca058a6a1608b2f4a1cec3c866eaa"
+    "/daikoukaijidai6-ship-builder-staging/styles.80847a23afe7b91b11a0.css": "927b03baa7eae1b945ab1002ae49b902da6a6af4"
   },
   "navigationUrls": [
     {
