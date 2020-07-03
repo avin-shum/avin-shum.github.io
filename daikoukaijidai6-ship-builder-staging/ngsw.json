@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1593763462336,
+  "timestamp": 1593793115168,
   "index": "/daikoukaijidai6-ship-builder-staging/index.html",
   "assetGroups": [
     {
@@ -228,15 +228,17 @@
         "/daikoukaijidai6-ship-builder-staging/assets/image/黃酒.png",
         "/daikoukaijidai6-ship-builder-staging/assets/image/黃銅.png",
         "/daikoukaijidai6-ship-builder-staging/assets/image/龜甲.png",
+        "/daikoukaijidai6-ship-builder-staging/bootstrap.min.css",
         "/daikoukaijidai6-ship-builder-staging/favicon.ico",
         "/daikoukaijidai6-ship-builder-staging/index.html",
-        "/daikoukaijidai6-ship-builder-staging/main.210a5aac07d4acbb0507.js",
+        "/daikoukaijidai6-ship-builder-staging/main.f8d4c65c7109d4847445.js",
         "/daikoukaijidai6-ship-builder-staging/manifest.webmanifest",
         "/daikoukaijidai6-ship-builder-staging/polyfills-es5.9187d4e93538f2722717.js",
         "/daikoukaijidai6-ship-builder-staging/polyfills.497f930c1fea36763f13.js",
         "/daikoukaijidai6-ship-builder-staging/runtime.c51bd5b1c616d9ffddc1.js",
         "/daikoukaijidai6-ship-builder-staging/scripts.7abc37487a3ab75a4e84.js",
-        "/daikoukaijidai6-ship-builder-staging/styles.80847a23afe7b91b11a0.css"
+        "/daikoukaijidai6-ship-builder-staging/styles.1a8044baeda6df8b41aa.css",
+        "/daikoukaijidai6-ship-builder-staging/styles.css"
       ],
       "patterns": []
     },
@@ -473,15 +475,17 @@
     "/daikoukaijidai6-ship-builder-staging/assets/image/黃酒.png": "4da2554e82f84c80dbcc1afb0370c4c9c72c716c",
     "/daikoukaijidai6-ship-builder-staging/assets/image/黃銅.png": "2c74b95f4459138e014bdb9d1dcd1a192525ca03",
     "/daikoukaijidai6-ship-builder-staging/assets/image/龜甲.png": "007e609cc920247722f8ea73f3c320f0f18e4cc5",
+    "/daikoukaijidai6-ship-builder-staging/bootstrap.min.css": "4f14a09a606c99a11f8fda15564ef66f70402826",
     "/daikoukaijidai6-ship-builder-staging/favicon.ico": "e4311854820cd429a9e5ed9daab80b4a94e7f921",
-    "/daikoukaijidai6-ship-builder-staging/index.html": "17bcc4cdc7847e2f58d7be63d0af57395f4dbc4a",
-    "/daikoukaijidai6-ship-builder-staging/main.210a5aac07d4acbb0507.js": "1f1f4ed1a83b6aa1e03803362cb5714377017d58",
+    "/daikoukaijidai6-ship-builder-staging/index.html": "8c418e4c1e2985ccbe0ebca2dd55d11b2a57a0ab",
+    "/daikoukaijidai6-ship-builder-staging/main.f8d4c65c7109d4847445.js": "fc5f43e9c1c1effb76967a2e54f807ac9640bc95",
     "/daikoukaijidai6-ship-builder-staging/manifest.webmanifest": "abfde767a8849c8a18a570253a2fc997fabfb74a",
     "/daikoukaijidai6-ship-builder-staging/polyfills-es5.9187d4e93538f2722717.js": "d579f086e6369e2976d5e4afdf8789d3239c59a3",
     "/daikoukaijidai6-ship-builder-staging/polyfills.497f930c1fea36763f13.js": "00d68f6bec8622ed1a323563d0a30dd7a541895c",
     "/daikoukaijidai6-ship-builder-staging/runtime.c51bd5b1c616d9ffddc1.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "/daikoukaijidai6-ship-builder-staging/scripts.7abc37487a3ab75a4e84.js": "5e54f22b9ff1a21a4571a1e25dc2ad15b1b31c53",
-    "/daikoukaijidai6-ship-builder-staging/styles.80847a23afe7b91b11a0.css": "927b03baa7eae1b945ab1002ae49b902da6a6af4"
+    "/daikoukaijidai6-ship-builder-staging/styles.1a8044baeda6df8b41aa.css": "052693f1432bc83e4ef2ec47c08c011d3d37accd",
+    "/daikoukaijidai6-ship-builder-staging/styles.css": "b083dce3d4852167a5b751a9c0a62e5ef2771cbb"
   },
   "navigationUrls": [
     {
