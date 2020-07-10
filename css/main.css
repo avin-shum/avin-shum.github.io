@@ -58,6 +58,9 @@ a:hover,
 a:focus {
   color: {{ site.hover-col }};
 }
+b, strong {
+  color: black;
+}
 blockquote {
   color: #555;
   font-style: italic;
@@ -145,6 +148,10 @@ img.half-width {
 img.quarter-width {
   width: 25%;
   height: 25%;
+  display: block;
+}
+
+img.center {
   display: block;
 }
 
@@ -726,6 +733,10 @@ footer .theme-by {
 
 table {
   padding: 0;
+  margin: 20px 10px 30px;
+  font-size: smaller;
+  overflow-x: auto;
+  display: block;
 }
 table tr {
   border-top: 1px solid #cccccc;
@@ -748,6 +759,7 @@ table tr td {
   text-align: left;
   margin: 0;
   padding: 6px 13px;
+  word-break: keep-all;
 }
 table tr th :first-child,
 table tr td :first-child {
@@ -929,4 +941,28 @@ pre {
 
 .align-items-baseline {
   align-items: baseline;
+}
+
+.center-text {
+  text-align: center;
+}
+
+.right-text {
+  text-align: right;
+}
+
+.small-text {
+  font-size: small;
+}
+
+.smaller-text {
+  font-size: smaller;
+}
+
+.red {
+  color: red;
+}
+
+.alpha-list {
+  list-style-type: upper-alpha;
 }
