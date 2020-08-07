@@ -58,7 +58,7 @@ a:hover,
 a:focus {
   color: {{ site.hover-col }};
 }
-b, strong {
+:not(a) > b, :not(a) > strong {
   color: black;
 }
 blockquote {
@@ -965,4 +965,14 @@ pre {
 
 .alpha-list {
   list-style-type: upper-alpha;
+}
+
+.navigator-img {
+  object-fit: cover;
+  clip-path: polygon(70px 35px, 170px 35px, 170px 135px, 70px 135px);
+  margin: -39px -74px -133px -80px !important;
+  width: 233px;
+  height: 264px;
+  max-width: 233px;
+  max-height: 264px;
 }
