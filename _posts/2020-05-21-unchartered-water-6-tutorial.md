@@ -80,14 +80,14 @@ tag: [大航海時代VI]
 貨船推介:
 
 - 亞哈爾號: 提高抬價機率，多賺一點錢。而且是銀船，很容易就造滿。缺點是倉位只有 C8。
-- 救濟者號: 配**瑪麗亞姆**，可以多買一點胡椒。缺點是不能造出，入手要講綠分。
+- 救濟者號: 配[**瑪麗亞姆**](https://vsresult.com/umi6/navigator/108.php)，可以多買一點胡椒。缺點是不能造出，入手要講緣分。
 - 伊納濫號: 東南亞交易船。缺點是船本身是彩船，較難造出。
 
 船員推介:
 
-- 抬價角: 賈姆希德，里拉，圖爾古特
-- 補貨角: 瑪麗亞姆，披蓮通泰普善佩，阿南塔猜(白色情人節)
-- 殺價角: 尼爾馬拉‧切蒂
+- 抬價角: [賈姆希德](https://vsresult.com/umi6/navigator/125.php)，[里拉](https://vsresult.com/umi6/navigator/162.php)，[圖爾古特](https://vsresult.com/umi6/navigator/103.php)
+- 補貨角: [瑪麗亞姆](https://vsresult.com/umi6/navigator/108.php)，[披蓮通泰普善佩](https://vsresult.com/umi6/navigator/157.php)，[阿南塔猜(白色情人節)](https://vsresult.com/umi6/navigator/002.php)
+- 殺價角: [尼爾馬拉‧切蒂](https://vsresult.com/umi6/navigator/171.php)
 
 ![Pepper profit](../img/life/uw6/pepper2.jpg){: .center}
 
@@ -242,63 +242,63 @@ _特別注意北歐地區有極多浮冰_，強烈建議使用能防浮冰的船
 
 #### 銀
 
-| 名稱                                                   | 文化圈 | 得意領域         | 註解                                                                                                     |
-| ------------------------------------------------------ | ------ | ---------------- | -------------------------------------------------------------------------------------------------------- |
-| **伊琳娜‧席爾瓦**                                      | 南歐   | 海戰、投資       | 南歐圈投資術 (最高 Lv4)，海戰 A，水上的射法 (最高 Lv4)，海戰神技，配合連擊技能(如格拉特)，能打出大量傷害 |
-| **吉塞拉‧阿爾馬拉斯**                                  | 南歐   | 航海、練功、海戰 | 著名的放火妹，強化後出航海神技，可以長時間不靠港，釣火船練功重要角色                                     |
-| **米開朗基羅‧博納羅蒂**                                | 南歐   | 航海             | 驅逐老鼠 (最高 Lv5)，老鼠王                                                                              |
-| **山努亞‧阿薩姆**                                      | 中東   | 海戰、探險       | 海戰 B，接舷強攻 (最高 Lv4)，近戰高手，探險也有 A                                                        |
-| **烏爾古‧阿里**                                        | 中東   | 海戰             | 猛擊的號令 (最高 Lv5)，近戰高手，還有船隻整備經驗                                                        |
-| **朱麗葉‧貢扎加**                                      | 中東   | 採購             | 中東圈深交術 (最高 Lv5)                                                                                  |
-| **瑪麗亞姆‧薩曼尼**                                    | 印度   | 採購             | 印度圈深交術 (最高 Lv5)，胡椒商隊主力成員                                                                |
-| **瑪麗亞‧戈賓蒂**                                      | 印度   | 航海、探險       | 探險 A，全力勇進 (最高 Lv5)、 灼熱對策 (最高 Lv2)，很優秀的探險員，灼熱對策對前期開荒很重要              |
-| **戴維‧巴尤**                                          | 東南亞 | 探險             | 探險 S，夾擊陣形 (最高 Lv5)，還有火焰彈傍身                                                              |
-| **凱魯‧伊斯梅爾**                                      | 東南亞 | 抬價             | 東南圈交涉術 (最高 Lv4)                                                                                  |
-| **披蓮通泰普善佩**                                     | 東南亞 | 採購             | 東南圈深交術 (最高 Lv5)                                                                                  |
-| **楊德興**                                             | 明朝   | 採購             | 中華圈深交術 (最高 Lv4)                                                                                  |
-| **許楚姬** <span class="red smaller-text">(新!)</span> | 朝鮮   | 採購             | 朝鮮圈深交術 (最高 Lv5)                                                                                  |
-| 克萊赫‧斯隆                                            | 西歐   | 投資             | 西歐圈投資術 (最高 Lv4)                                                                                  |
-| 羅克‧阿勒姆克                                          | 南歐   | 海戰             | 海戰 A，火焰彈 (最高 Lv3)，前期主要紅炮手                                                                |
-| 盧西奧‧塔瓦雷斯                                        | 南歐   | 探險             | 海戰 C，貫通彈 (最高 Lv2)，探險 A，先發一擊 (最高 Lv4)，然而最大問題是要二等藝術品書，難養               |
-| 瑪路吉‧本斯里                                          | 印度   | 海戰             | 海戰 A，葡萄彈 (最高 Lv4)                                                                                |
-| 阿帕‧卡普爾                                            | 印度   | 生產             | 牧場生產術 (最高 Lv4)，牧場就是他的了                                                                    |
-| 蘇拉固耶恩                                             | 東南亞 | 海戰、投資       | 海戰 A，破碎彈 (最高 Lv4)、東南圈投資術 (最高 Lv2)                                                       |
-| 拉賈‧蘇萊曼                                            | 東南亞 | 海戰             | 海戰 B，精準射擊 (最高 Lv4)                                                                              |
-| 鄭松                                                   | 東南亞 | 投資             | 東南圈投資術 (最高 Lv4)                                                                                  |
-| 多明戈斯‧德‧塞夏斯                                     | 東南亞 | 生產、海戰       | 礦山生產術 (最高 Lv3)，新一代礦工，海戰也有 A，技能也不錯                                                |
-| 蓋洛特‧佩雷拉                                          | 東南亞 | 海戰             | 海戰 A，火焰彈 (最高 Lv5)，強力炮手                                                                      |
-| 伊迪‧奎尼                                              | 異文化 | 海戰             | 海戰 B，火焰彈 (最高 Lv3)                                                                                |
+| 名稱                                                   | 畫像                                                                                                                                     | 文化圈 | 得意領域         | 註解                                                                                                     |
+| ------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------------- | -------------------------------------------------------------------------------------------------------- |
+| **伊琳娜‧席爾瓦**                                      | [![伊琳娜‧席爾瓦](https://vsresult.com/umi6/navigator/img/086.jpg){: .navigator-img}](https://vsresult.com/umi6/navigator/086.php)       | 南歐   | 海戰、投資       | 南歐圈投資術 (最高 Lv4)，海戰 A，水上的射法 (最高 Lv4)，海戰神技，配合連擊技能(如格拉特)，能打出大量傷害 |
+| **吉塞拉‧阿爾馬拉斯**                                  | [![吉塞拉‧阿爾馬拉斯](https://vsresult.com/umi6/navigator/img/105.jpg){: .navigator-img}](https://vsresult.com/umi6/navigator/105.php)   | 南歐   | 航海、練功、海戰 | 著名的放火妹，強化後出航海神技，可以長時間不靠港，釣火船練功重要角色                                     |
+| **米開朗基羅‧博納羅蒂**                                | [![米開朗基羅‧博納羅蒂](https://vsresult.com/umi6/navigator/img/110.jpg){: .navigator-img}](https://vsresult.com/umi6/navigator/110.php) | 南歐   | 航海             | 驅逐老鼠 (最高 Lv5)，老鼠王                                                                              |
+| **山努亞‧阿薩姆**                                      | [![山努亞‧阿薩姆](https://vsresult.com/umi6/navigator/img/096.jpg){: .navigator-img}](https://vsresult.com/umi6/navigator/096.php)       | 中東   | 海戰、探險       | 海戰 B，接舷強攻 (最高 Lv4)，近戰高手，探險也有 A                                                        |
+| **烏爾古‧阿里**                                        | [![烏爾古‧阿里](https://vsresult.com/umi6/navigator/img/087.jpg){: .navigator-img}](https://vsresult.com/umi6/navigator/087.php)         | 中東   | 海戰             | 猛擊的號令 (最高 Lv5)，近戰高手，還有船隻整備經驗                                                        |
+| **朱麗葉‧貢扎加**                                      | [![朱麗葉‧貢扎加](https://vsresult.com/umi6/navigator/img/098.jpg){: .navigator-img}](https://vsresult.com/umi6/navigator/098.php)       | 中東   | 採購             | 中東圈深交術 (最高 Lv5)                                                                                  |
+| **瑪麗亞姆‧薩曼尼**                                    | [![瑪麗亞姆‧薩曼尼](https://vsresult.com/umi6/navigator/img/108.jpg){: .navigator-img}](https://vsresult.com/umi6/navigator/108.php)     | 印度   | 採購             | 印度圈深交術 (最高 Lv5)，胡椒商隊主力成員                                                                |
+| **瑪麗亞‧戈賓蒂**                                      | [![瑪麗亞‧戈賓蒂](https://vsresult.com/umi6/navigator/img/107.jpg){: .navigator-img}](https://vsresult.com/umi6/navigator/107.php)       | 印度   | 航海、探險       | 探險 A，全力勇進 (最高 Lv5)、 灼熱對策 (最高 Lv2)，很優秀的探險員，灼熱對策對前期開荒很重要              |
+| **戴維‧巴尤**                                          | [![戴維‧巴尤](https://vsresult.com/umi6/navigator/img/101.jpg){: .navigator-img}](https://vsresult.com/umi6/navigator/101.php)           | 東南亞 | 探險             | 探險 S，夾擊陣形 (最高 Lv5)，還有火焰彈傍身                                                              |
+| **凱魯‧伊斯梅爾**                                      | [![凱魯‧伊斯梅爾](https://vsresult.com/umi6/navigator/img/091.jpg){: .navigator-img}](https://vsresult.com/umi6/navigator/091.php)       | 東南亞 | 抬價             | 東南圈交涉術 (最高 Lv4)                                                                                  |
+| **披蓮通泰普善佩**                                     | [![披蓮通泰普善佩](https://vsresult.com/umi6/navigator/img/157.jpg){: .navigator-img}](https://vsresult.com/umi6/navigator/157.php)      | 東南亞 | 採購             | 東南圈深交術 (最高 Lv5)                                                                                  |
+| **楊德興**                                             | [![楊德興](https://vsresult.com/umi6/navigator/img/118.jpg){: .navigator-img}](https://vsresult.com/umi6/navigator/118.php)       | 明朝   | 採購             | 中華圈深交術 (最高 Lv4)                                                                                  |
+| **許楚姬** <span class="red smaller-text">(新!)</span> | [![許楚姬](https://vsresult.com/umi6/navigator/img/211.jpg){: .navigator-img}](https://vsresult.com/umi6/navigator/211.php)       | 朝鮮   | 採購             | 朝鮮圈深交術 (最高 Lv5)                                                                                  |
+| 克萊赫‧斯隆                                            | [![克萊赫‧斯隆](https://vsresult.com/umi6/navigator/img/094.jpg){: .navigator-img}](https://vsresult.com/umi6/navigator/094.php)         | 西歐   | 投資             | 西歐圈投資術 (最高 Lv4)                                                                                  |
+| 羅克‧阿勒姆克                                          | [![羅克‧阿勒姆克](https://vsresult.com/umi6/navigator/img/113.jpg){: .navigator-img}](https://vsresult.com/umi6/navigator/113.php)       | 南歐   | 海戰             | 海戰 A，火焰彈 (最高 Lv3)，前期主要紅炮手                                                                |
+| 盧西奧‧塔瓦雷斯                                        | [![盧西奧‧塔瓦雷斯](https://vsresult.com/umi6/navigator/img/112.jpg){: .navigator-img}](https://vsresult.com/umi6/navigator/112.php)     | 南歐   | 探險             | 海戰 C，貫通彈 (最高 Lv2)，探險 A，先發一擊 (最高 Lv4)，然而最大問題是要二等藝術品書，難養               |
+| 瑪路吉‧本斯里                                          | [![瑪路吉‧本斯里](https://vsresult.com/umi6/navigator/img/155.jpg){: .navigator-img}](https://vsresult.com/umi6/navigator/155.php)       | 印度   | 海戰             | 海戰 A，葡萄彈 (最高 Lv4)                                                                                |
+| 阿帕‧卡普爾                                            | [![阿帕‧卡普爾](https://vsresult.com/umi6/navigator/img/159.jpg){: .navigator-img}](https://vsresult.com/umi6/navigator/159.php)         | 印度   | 生產             | 牧場生產術 (最高 Lv4)，牧場就是他的了                                                                    |
+| 蘇拉固耶恩                                             | [![蘇拉固耶恩](https://vsresult.com/umi6/navigator/img/099.jpg){: .navigator-img}](https://vsresult.com/umi6/navigator/099.php)          | 東南亞 | 海戰、投資       | 海戰 A，破碎彈 (最高 Lv4)、東南圈投資術 (最高 Lv2)                                                       |
+| 拉賈‧蘇萊曼                                            | [![拉賈‧蘇萊曼](https://vsresult.com/umi6/navigator/img/111.jpg){: .navigator-img}](https://vsresult.com/umi6/navigator/111.php)         | 東南亞 | 海戰             | 海戰 B，精準射擊 (最高 Lv4)                                                                              |
+| 鄭松                                                   | [![鄭松](https://vsresult.com/umi6/navigator/img/100.jpg){: .navigator-img}](https://vsresult.com/umi6/navigator/100.php)                | 東南亞 | 投資             | 東南圈投資術 (最高 Lv4)                                                                                  |
+| 多明戈斯‧德‧塞夏斯                                     | [![多明戈斯‧德‧塞夏斯](https://vsresult.com/umi6/navigator/img/152.jpg){: .navigator-img}](https://vsresult.com/umi6/navigator/152.php)  | 東南亞 | 生產、海戰       | 礦山生產術 (最高 Lv3)，新一代礦工，海戰也有 A，技能也不錯                                                |
+| 蓋洛特‧佩雷拉                                          | [![蓋洛特‧佩雷拉](https://vsresult.com/umi6/navigator/img/153.jpg){: .navigator-img}](https://vsresult.com/umi6/navigator/153.php)       | 東南亞 | 海戰             | 海戰 A，火焰彈 (最高 Lv5)，強力炮手                                                                      |
+| 伊迪‧奎尼                                              | [![伊迪‧奎尼](https://vsresult.com/umi6/navigator/img/085.jpg){: .navigator-img}](https://vsresult.com/umi6/navigator/085.php)       | 異文化 | 海戰             | 海戰 B，火焰彈 (最高 Lv3)                                                                                |
+| 艾哈邁德‧亞伯拉罕‧加齊                                 | [![艾哈邁德‧亞伯拉罕‧加齊](https://vsresult.com/umi6/navigator/img/158.jpg){: .navigator-img}](https://vsresult.com/umi6/navigator/158.php)   | 異文化   | 海戰       | 海戰 S，沉船一擊 (最高 Lv5)，強力炮手，可惜是異文化人 |
 
 #### 銅
 
-| 名稱                                                   | 文化圈 | 得意領域   | 註解                                                                                          |
-| ------------------------------------------------------ | ------ | ---------- | --------------------------------------------------------------------------------------------- |
-| **迪歐‧霍夫曼**                                        | 西歐   | 航海       | 極海航行術 (最高 Lv4)，北歐有他和羅斯托克號就不怕浮冰了                                       |
-| **萊拉‧埃爾‧瓦贊**                                     | 西歐   | 探購       | 異文化深交術 (最高 Lv5)                                                                       |
-| **朱利奧‧阿布瑞尤**                                    | 南歐   | 探險、海戰 | 探險 B，先發一擊 (最高 Lv4)，前期可以撐高探險戰力，還有葡萄彈傍身                             |
-| **喬爾喬‧瓦薩里**                                      | 南歐   | 抬價       | 啫好品售賣術 (最高 Lv4)，商益戰強力角色                                                       |
-| **里奧‧亞非利加努**                                    | 中東   | 探險       | 供水 (最高 Lv5)，探險值高，還能當奶媽，還會抓老鼠                                             |
-| **賈姆希德‧阿瑪迪**                                    | 中東   | 抬價       | 中東圈交涉術 (最高 Lv4)，首席胡椒推銷員                                                       |
-| **瓦菲婭‧哈基姆**                                      | 中東   | 海戰       | 海戰 B，接舷強攻 (最高 Lv4)，中東又一近戰高手                                                 |
-| **佩羅‧艾斯特維茲**                                    | 印度   | 抬價       | 印歐航路交涉術 (最高 Lv3)，少有的印度抬價角                                                   |
-| **蘇漢迪‧拉希德**                                      | 東南亞 | 探險       | 探險 A，防備陣形 (最高 Lv5)                                                                   |
-| **黃秋英**                                             | 東南亞 | 海戰       | 海戰 A，接舷強攻 (最高 Lv5)，一流近戰成員                                                     |
-| **露西婭‧德‧索薩**                                     | 東南亞 | 海戰       | 海戰 B，連鎖彈 (最高 Lv4)，少有的黃炮手                                                       |
-| **里拉‧阿爾巴**                                        | 東南亞 | 抬價       | 農產品售賣術 (最高 Lv4)，新一代胡椒推銷員                                                     |
-| **張梅花**                                             | 東南亞 | 抬價       | 東南圈交涉術 (最高 Lv4)，銅版凱魯，多一隻就多一份力量                                         |
-| **尼爾馬拉‧切蒂**                                      | 東南亞 | 殺價       | 南亞圈會計術 (最高 Lv5)                                                                       |
-| **范明玉** <span class="red smaller-text">(新!)</span> | 朝鮮   | 採購       | 東南圈深交術 (最高 Lv4)                                                                       |
-| **恩金格‧恩本巴**                                      | 異文化 | 採購       | 南歐圈深交術 (最高 Lv5)                                                                       |
-| **埃塞爾‧費雷**                                        | 異文化 | 抬價       | 異文化交涉術 (最高 Lv5)，雖然暫時商益戰還沒有包括異文化圈……                                   |
-| 胡安‧何塞                                              | 西歐   | 海戰       | 海戰 A，破碎彈 (最高 Lv4)，西歐炮手(雖然是西班牙人)，前期角色不多時也很好用                   |
-| 魯利‧比安可                                            | 南歐   | 投資       | 南歐圈投資術 (最高 Lv5)                                                                       |
-| 帕爾加勒‧帕夏                                          | 中東   | 投資       | 中東圈投資術 (最高 Lv4)                                                                       |
-| 埃莎‧嘉拉特納                                          | 印度   | 航海       | 灼熱對策 (最高 Lv4)                                                                           |
-| 楊祿 <span class="red smaller-text">(新!)</span>       | 朝鮮   | 投資       | 中國圈投資術 (最高 Lv4)                                                                       |
-| 名謢思戶                                               | 異文化 | 海戰       | 海戰 B，葡萄彈 (最高 Lv4)                                                                     |
-| 阿蒙迪‧卡爾梅                                          | 異文化 | 投資       | 異文化投資術 (最高 Lv2)，非洲投資就靠她了                                                     |
-| 艾哈邁德‧亞伯拉罕‧加齊                                 | 異文化 | 海戰       | 海戰 S，沉船一擊 (最高 Lv5)，強力炮手，可惜是異文化人                                         |
-| 紐塔                                                   | 異文化 | 探險       | 探險 A，心理戰術 (最高 Lv4)，前期可以撐高探險戰力，降攻令隊員有更多輸出的機會，可惜技能吃距離 |
+| 名稱                                                   | 文化圈                                                                                                                               | 得意領域 | 註解       |
+| ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ | -------- | ---------- |
+| **迪歐‧霍夫曼**                                        | [![迪歐‧霍夫曼](https://vsresult.com/umi6/navigator/img/128.jpg){: .navigator-img}](https://vsresult.com/umi6/navigator/128.php)     | 西歐     | 航海       | 極海航行術 (最高 Lv4)，北歐有他和羅斯托克號就不怕浮冰了 |
+| **萊拉‧埃爾‧瓦贊**                                     | [![萊拉‧埃爾‧瓦贊](https://vsresult.com/umi6/navigator/img/136.jpg){: .navigator-img}](https://vsresult.com/umi6/navigator/136.php)  | 西歐     | 探購       | 異文化深交術 (最高 Lv5) |
+| **朱利奧‧阿布瑞尤**                                    | [![朱利奧‧阿布瑞尤](https://vsresult.com/umi6/navigator/img/126.jpg){: .navigator-img}](https://vsresult.com/umi6/navigator/126.php) | 南歐     | 探險、海戰 | 探險 B，先發一擊 (最高 Lv4)，前期可以撐高探險戰力，還有葡萄彈傍身 |
+| **喬爾喬‧瓦薩里**                                      | [![喬爾喬‧瓦薩里](https://vsresult.com/umi6/navigator/img/167.jpg){: .navigator-img}](https://vsresult.com/umi6/navigator/167.php)   | 南歐     | 抬價       | 啫好品售賣術 (最高 Lv4)，商益戰強力角色 |
+| **里奧‧亞非利加努**                                    | [![里奧‧亞非利加努](https://vsresult.com/umi6/navigator/img/139.jpg){: .navigator-img}](https://vsresult.com/umi6/navigator/139.php) | 中東     | 探險       | 供水 (最高 Lv5)，探險值高，還能當奶媽，還會抓老鼠 |
+| **賈姆希德‧阿瑪迪**                                    | [![賈姆希德‧阿瑪迪](https://vsresult.com/umi6/navigator/img/125.jpg){: .navigator-img}](https://vsresult.com/umi6/navigator/125.php) | 中東     | 抬價       | 中東圈交涉術 (最高 Lv4)，首席胡椒推銷員 |
+| **瓦菲婭‧哈基姆**                                      | [![瓦菲婭‧哈基姆](https://vsresult.com/umi6/navigator/img/170.jpg){: .navigator-img}](https://vsresult.com/umi6/navigator/170.php)   | 中東     | 海戰       | 海戰 B，接舷強攻 (最高 Lv4)，中東又一近戰高手 |
+| **佩羅‧艾斯特維茲**                                    | [![佩羅‧艾斯特維茲](https://vsresult.com/umi6/navigator/img/168.jpg){: .navigator-img}](https://vsresult.com/umi6/navigator/168.php) | 印度     | 抬價       | 印歐航路交涉術 (最高 Lv3)，少有的印度抬價角 |
+| **蘇漢迪‧拉希德**                                      | [![蘇漢迪‧拉希德](https://vsresult.com/umi6/navigator/img/127.jpg){: .navigator-img}](https://vsresult.com/umi6/navigator/127.php)   | 東南亞   | 探險       | 探險 A，防備陣形 (最高 Lv5) |
+| **黃秋英**                                             | [![黃秋英](https://vsresult.com/umi6/navigator/img/143.jpg){: .navigator-img}](https://vsresult.com/umi6/navigator/143.php)          | 東南亞   | 海戰       | 海戰 A，接舷強攻 (最高 Lv5)，一流近戰成員 |
+| **露西婭‧德‧索薩**                                     | [![露西婭‧德‧索薩](https://vsresult.com/umi6/navigator/img/138.jpg){: .navigator-img}](https://vsresult.com/umi6/navigator/138.php)  | 東南亞   | 海戰       | 海戰 B，連鎖彈 (最高 Lv4)，少有的黃炮手 |
+| **里拉‧阿爾巴**                                        | [![里拉‧阿爾巴](https://vsresult.com/umi6/navigator/img/162.jpg){: .navigator-img}](https://vsresult.com/umi6/navigator/162.php)     | 東南亞   | 抬價       | 農產品售賣術 (最高 Lv4)，新一代胡椒推銷員 |
+| **張梅花**                                             | [![張梅花](https://vsresult.com/umi6/navigator/img/166.jpg){: .navigator-img}](https://vsresult.com/umi6/navigator/166.php)          | 東南亞   | 抬價       | 東南圈交涉術 (最高 Lv4)，銅版凱魯，多一隻就多一份力量 |
+| **尼爾馬拉‧切蒂**                                      | [![尼爾馬拉‧切蒂](https://vsresult.com/umi6/navigator/img/171.jpg){: .navigator-img}](https://vsresult.com/umi6/navigator/171.php)   | 東南亞   | 殺價       | 南亞圈會計術 (最高 Lv5)，看清楚，這可是涵蓋兩個文化區的技能啊！賣胡椒不如抬價角，但可以一買一賣兩邊賺增加利潤 |
+| **范明玉** <span class="red smaller-text">(新!)</span> | [![范明玉](https://vsresult.com/umi6/navigator/img/215.jpg){: .navigator-img}](https://vsresult.com/umi6/navigator/215.php)   | 朝鮮     | 採購       | 東南圈深交術 (最高 Lv4) |
+| **恩金格‧恩本巴**                                      | [![恩金格‧恩本巴](https://vsresult.com/umi6/navigator/img/169.jpg){: .navigator-img}](https://vsresult.com/umi6/navigator/169.php)   | 異文化   | 採購       | 南歐圈深交術 (最高 Lv5) |
+| **埃塞爾‧費雷**                                        | [![埃塞爾‧費雷](https://vsresult.com/umi6/navigator/img/165.jpg){: .navigator-img}](https://vsresult.com/umi6/navigator/165.php)   | 異文化   | 抬價       | 異文化交涉術 (最高 Lv5)，雖然暫時商益戰還沒有包括異文化圈…… |
+| 胡安‧何塞                                              | [![胡安‧何塞](https://vsresult.com/umi6/navigator/img/131.jpg){: .navigator-img}](https://vsresult.com/umi6/navigator/131.php)       | 西歐     | 海戰       | 海戰 A，破碎彈 (最高 Lv4)，西歐炮手(雖然是西班牙人)，前期角色不多時也很好用 |
+| 魯利‧比安可                                            | [![魯利‧比安可](https://vsresult.com/umi6/navigator/img/161.jpg){: .navigator-img}](https://vsresult.com/umi6/navigator/161.php)     | 南歐     | 投資       | 南歐圈投資術 (最高 Lv5) |
+| 帕爾加勒‧帕夏                                          | [![帕爾加勒‧帕夏](https://vsresult.com/umi6/navigator/img/133.jpg){: .navigator-img}](https://vsresult.com/umi6/navigator/133.php)   | 中東     | 投資       | 中東圈投資術 (最高 Lv4) |
+| 埃莎‧嘉拉特納                                          | [![埃莎‧嘉拉特納](https://vsresult.com/umi6/navigator/img/123.jpg){: .navigator-img}](https://vsresult.com/umi6/navigator/123.php)   | 印度     | 航海       | 灼熱對策 (最高 Lv4) |
+| 楊祿 <span class="red smaller-text">(新!)</span>       | [![楊祿](https://vsresult.com/umi6/navigator/img/217.jpg){: .navigator-img}](https://vsresult.com/umi6/navigator/217.php)   | 朝鮮     | 投資       | 中國圈投資術 (最高 Lv4) |
+| 名謢思戶                                               | [![名謢思戶](https://vsresult.com/umi6/navigator/img/141.jpg){: .navigator-img}](https://vsresult.com/umi6/navigator/141.php)   | 異文化   | 海戰       | 海戰 B，葡萄彈 (最高 Lv4) |
+| 阿蒙迪‧卡爾梅                                          | [![阿蒙迪‧卡爾梅](https://vsresult.com/umi6/navigator/img/121.jpg){: .navigator-img}](https://vsresult.com/umi6/navigator/121.php)   | 異文化   | 投資       | 異文化投資術 (最高 Lv2)，非洲投資就靠她了 |
+| 紐塔                                                   | [![紐塔](https://vsresult.com/umi6/navigator/img/160.jpg){: .navigator-img}](https://vsresult.com/umi6/navigator/160.php)   | 異文化   | 探險       | 探險 A，心理戰術 (最高 Lv4)，前期可以撐高探險戰力，降攻令隊員有更多輸出的機會，可惜技能吃距離 |
 
 {: .right-text }
 [↑ 返回目錄](#目錄)
