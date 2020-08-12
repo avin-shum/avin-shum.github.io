@@ -969,11 +969,10 @@ pre {
 
 .navigator-img {
   object-fit: cover;
-  clip-path: polygon(337px 160px, 400px 160px, 400px 250px, 337px 250px);
-  margin: -163px 0 0 -338px !important;
-  height: 250px;
-  width: 400px;
-  max-width: 400px;
-  max-height: 250px;
-  object-position: right
+  clip-path: polygon(70px 35px, 170px 35px, 170px 135px, 70px 135px);
+  margin: -39px -74px -133px -80px !important;
+  width: 233px;
+  height: 264px;
+  max-width: 233px;
+  max-height: 264px;
 }
