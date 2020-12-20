@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1600419842031,
+  "timestamp": 1608455307378,
   "index": "/uw6-ship-builder/index.html",
   "assetGroups": [
     {
@@ -267,14 +267,14 @@
         "/uw6-ship-builder/bootstrap.min.css",
         "/uw6-ship-builder/favicon.ico",
         "/uw6-ship-builder/index.html",
-        "/uw6-ship-builder/main.5c7142acff41e6b6c96f.js",
+        "/uw6-ship-builder/main.c3a919b7051096d86551.js",
         "/uw6-ship-builder/manifest.webmanifest",
         "/uw6-ship-builder/polyfills-es5.9187d4e93538f2722717.js",
         "/uw6-ship-builder/polyfills.497f930c1fea36763f13.js",
         "/uw6-ship-builder/runtime.c51bd5b1c616d9ffddc1.js",
         "/uw6-ship-builder/scripts.7abc37487a3ab75a4e84.js",
-        "/uw6-ship-builder/styles.7f395c316c8b56471b04.css",
-        "/uw6-ship-builder/styles.css"
+        "/uw6-ship-builder/styles.css",
+        "/uw6-ship-builder/styles.e96edcac2bc1aa884f5c.css"
       ],
       "patterns": []
     },
@@ -547,17 +547,17 @@
     "/uw6-ship-builder/assets/image/黃酒.png": "4da2554e82f84c80dbcc1afb0370c4c9c72c716c",
     "/uw6-ship-builder/assets/image/黃銅.png": "2c74b95f4459138e014bdb9d1dcd1a192525ca03",
     "/uw6-ship-builder/assets/image/龜甲.png": "007e609cc920247722f8ea73f3c320f0f18e4cc5",
-    "/uw6-ship-builder/bootstrap.min.css": "db96b80b0254549d991aef0e72e3ca0bdccc707c",
+    "/uw6-ship-builder/bootstrap.min.css": "4f14a09a606c99a11f8fda15564ef66f70402826",
     "/uw6-ship-builder/favicon.ico": "e4311854820cd429a9e5ed9daab80b4a94e7f921",
-    "/uw6-ship-builder/index.html": "f741017b91db0bd68f91e9d36a810fa7a51340a8",
-    "/uw6-ship-builder/main.5c7142acff41e6b6c96f.js": "4642c20f4f363f1d3c635446c9cb8d62a4670aa5",
+    "/uw6-ship-builder/index.html": "dfe6fda92cf6ce41b0b32c93c64f179f8db7e57e",
+    "/uw6-ship-builder/main.c3a919b7051096d86551.js": "d9ac7ac2b32faa103cc291be0b86f70f1a8d8660",
     "/uw6-ship-builder/manifest.webmanifest": "abfde767a8849c8a18a570253a2fc997fabfb74a",
     "/uw6-ship-builder/polyfills-es5.9187d4e93538f2722717.js": "d579f086e6369e2976d5e4afdf8789d3239c59a3",
     "/uw6-ship-builder/polyfills.497f930c1fea36763f13.js": "00d68f6bec8622ed1a323563d0a30dd7a541895c",
     "/uw6-ship-builder/runtime.c51bd5b1c616d9ffddc1.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "/uw6-ship-builder/scripts.7abc37487a3ab75a4e84.js": "5e54f22b9ff1a21a4571a1e25dc2ad15b1b31c53",
-    "/uw6-ship-builder/styles.7f395c316c8b56471b04.css": "e64e82ecd6f7c2019efca72244718942fbeb8888",
-    "/uw6-ship-builder/styles.css": "b083dce3d4852167a5b751a9c0a62e5ef2771cbb"
+    "/uw6-ship-builder/styles.css": "b083dce3d4852167a5b751a9c0a62e5ef2771cbb",
+    "/uw6-ship-builder/styles.e96edcac2bc1aa884f5c.css": "077bb6a5cbc2ec98d6fb48fb96f73ffe40946a0f"
   },
   "navigationUrls": [
     {
