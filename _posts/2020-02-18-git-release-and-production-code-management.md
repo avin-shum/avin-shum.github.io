@@ -25,7 +25,7 @@ git checkout release
 git merge -e --no-ff production
 ```
 
-* Then you may edit the merge commit comment for your reference (e.g. "version xx.xx").
+- Then you may edit the merge commit comment for your reference (e.g. "version xx.xx").
 
 ## 2. Tie `release` back to `production`
 
@@ -36,7 +36,7 @@ git checkout production
 git merge -e --no-ff release
 ```
 
-* Then you may edit the merge commit comment for your reference as well.
+- Then you may edit the merge commit comment for your reference as well.
 
 ## 3. Cherry-pick commits after `production`
 
@@ -44,4 +44,12 @@ If you have some other commits after `production` and would like to put them aft
 
 ```shell
 git cherry-pick <commit right before the commits to be cherry-picked>..<the last commit to be cherry-picked>
+```
+
+## 4. Tell Git not to track a folder (Added on 18 Jan 2021)
+
+The solution is based on Stackoverflow: https://stackoverflow.com/questions/16346535/recursive-git-update-index-assume-unchanged
+
+```shell
+git ls-files -z myFolderToIgnore/ | xargs -0 git update-index --assume-unchanged
 ```
