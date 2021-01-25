@@ -760,6 +760,7 @@ table tr td {
   margin: 0;
   padding: 6px 13px;
   word-break: keep-all;
+  position: relative;
 }
 table tr th :first-child,
 table tr td :first-child {
@@ -969,10 +970,19 @@ pre {
 
 .navigator-img {
   object-fit: cover;
-  clip-path: polygon(70px 35px, 170px 35px, 170px 135px, 70px 135px);
-  margin: -39px -74px -133px -80px !important;
-  width: 233px;
-  height: 264px;
-  max-width: 233px;
-  max-height: 264px;
+  position: absolute;
+  left: 0;
+  top: 50%;
+  width: 80px;
+  height: 80px;
+  transform: translate(0, -50%);
+}
+
+.navigator-table td:nth-of-type(2) {
+  max-width: 80px;
+  max-height: 80px;
+  min-width: 80px;
+  min-height: 80px;
+  height: 80px;
+  width: 80px;
 }
