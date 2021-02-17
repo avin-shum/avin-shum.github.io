@@ -151,6 +151,11 @@ img.quarter-width {
   display: block;
 }
 
+img.mobile-width {
+  max-width: 350px;
+  display: block;
+}
+
 img.center {
   display: block;
 }
