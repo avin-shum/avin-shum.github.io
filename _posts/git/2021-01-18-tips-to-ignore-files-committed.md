@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tips to Ignore Files Commited
+title: Tips to Ignore Files Committed
 subtitle:
 date: 2021-01-18 00:00:00 +0800
 image: https://source.unsplash.com/OHOU-5UVIYQ
