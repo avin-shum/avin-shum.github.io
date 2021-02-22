@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tips to Ignore Files Commited
+title: Tips to Ignore Files Committed
 subtitle:
 date: 2021-01-18 00:00:00 +0800
 image: https://source.unsplash.com/OHOU-5UVIYQ
@@ -21,3 +21,13 @@ The solution is based on Stackoverflow: https://stackoverflow.com/questions/1634
 ```shell
 git ls-files -z myFolderToIgnore/ | xargs -0 git update-index --assume-unchanged
 ```
+
+_(22 Feb 2021 Update)_
+{: .red}
+
+Note:
+
+- To undo `assume-unchanged`, change it to `no-assume-unchanged` instead.
+- `assume-unchanged` may not be the best solution. You may consider using `skip-worktree` instead.
+  - See [https://stackoverflow.com/questions/13630849/git-difference-between-assume-unchanged-and-skip-worktree](https://stackoverflow.com/questions/13630849/git-difference-between-assume-unchanged-and-skip-worktree)
+- For those files which you do not want it to be overwritten by actions like `checkout`, consider [Private Branch Pattern](https://avin-shum.github.io/2021-02-08-private-branch-pattern)
