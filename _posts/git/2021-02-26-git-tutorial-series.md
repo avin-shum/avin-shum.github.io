@@ -2,7 +2,7 @@
 layout: post
 title: Git Tutorial Series
 subtitle:
-date: 2021-02-26 00:00:00 +0800
+date: 2021-02-26 00:00:00
 image: https://source.unsplash.com/842ofHC6MaI
 bigimg: https://source.unsplash.com/842ofHC6MaI
 tag: [Git, Technology]
@@ -16,15 +16,15 @@ This page is the content page of this tutorial series. The table of content is k
 
 ## Table of Content
 
-0. [Introduction to Git](https://avin-shum.github.io/2021-02-26-introduction-to-git/)
-   1. [What is Git](https://avin-shum.github.io/2021-02-26-introduction-to-git/#what-is-git)
-   2. [Environment Setup (Windows)](https://avin-shum.github.io/2021-02-26-introduction-to-git/#environment-setup-windows)
-1. Git Repository Set Up
-   1. Git Clone
-   2. Git Graph UI
-   3. Git Init
-   4. Git Remote
-   5. Files to ignore
+0. [Introduction to Git](../2021-02-26-introduction-to-git/)
+   1. [What is Git?](../2021-02-26-introduction-to-git/#what-is-git)
+   2. [Environment Setup (Windows)](../2021-02-26-introduction-to-git/#environment-setup-windows)
+1. [Git Repository Set Up](../2021-04-16-git-repository-set-up/)
+   1. [Git Clone](../2021-04-16-git-repository-set-up/#git-clone)
+   2. [Git Graph UI](../2021-04-16-git-repository-set-up/#git-graph-ui)
+   3. [Files in Git repositories](../2021-04-16-git-repository-set-up/#files-in-git-repositories)
+   4. [Git Init](../2021-04-16-git-repository-set-up/#git-init)
+   5. [Git Remote](../2021-04-16-git-repository-set-up/#git-remote)
 2. Git Basics
    1. The Three States
    2. Git Commit

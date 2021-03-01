@@ -8,9 +8,11 @@ bigimg: https://source.unsplash.com/842ofHC6MaI
 tag: [Git, Technology]
 ---
 
-This is part of Git Tutorial Series.
+This is a part of Git Tutorial Series.
 
-[Table of Content](../2021-02-26-git-tutorial-series/)
+- [Table of Content](../2021-02-26-git-tutorial-series/)
+
+### In this page:
 
 1. [What is Git?](#what-is-git)
 2. [Environment Setup (Windows)](#environment-setup-windows)
