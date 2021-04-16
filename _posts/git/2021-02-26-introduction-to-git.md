@@ -2,7 +2,7 @@
 layout: post
 title: Introduction to Git
 subtitle:
-date: 2021-02-26 00:00:00 +0800
+date: 2021-02-26 00:00:00
 image: https://source.unsplash.com/842ofHC6MaI
 bigimg: https://source.unsplash.com/842ofHC6MaI
 tag: [Git, Technology]
@@ -10,7 +10,10 @@ tag: [Git, Technology]
 
 This is part of Git Tutorial Series.
 
-[Table of Content](https://avin-shum.github.io/2021-02-26-git-tutorial-series/)
+[Table of Content](../2021-02-26-git-tutorial-series/)
+
+1. [What is Git?](#what-is-git)
+2. [Environment Setup (Windows)](#environment-setup-windows)
 
 ## What is Git?
 
