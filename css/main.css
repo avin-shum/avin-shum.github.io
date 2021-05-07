@@ -930,3 +930,54 @@ pre {
 .align-items-baseline {
   align-items: baseline;
 }
+
+.center-text {
+  text-align: center;
+}
+
+.right-text {
+  text-align: right;
+}
+
+.small-text {
+  font-size: small;
+}
+
+.smaller-text {
+  font-size: smaller;
+}
+
+.red {
+  color: red;
+}
+
+.green {
+  color: green;
+}
+
+.alpha-list {
+  list-style-type: upper-alpha;
+}
+
+.navigator-img {
+  object-fit: cover;
+  position: absolute;
+  left: 0;
+  top: 50%;
+  width: 80px;
+  height: 80px;
+  transform: translate(0, -50%);
+}
+
+.navigator-table td:nth-of-type(2) {
+  max-width: 80px;
+  max-height: 80px;
+  min-width: 80px;
+  min-height: 80px;
+  height: 80px;
+  width: 80px;
+}
+
+.fa-stack-2x {
+  font-size: 1em;
+}
