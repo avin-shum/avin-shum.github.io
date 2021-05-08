@@ -75,6 +75,10 @@ hr.small {
   border-color: inherit;
   border-radius: 3px;
 }
+article {
+  max-width: 100vw;
+  overflow-wrap: break-word;
+}
 article hr {
   border-top: 3px double #333;
   margin-top: 3rem;
