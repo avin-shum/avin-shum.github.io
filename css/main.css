@@ -969,6 +969,10 @@ pre {
   color: red;
 }
 
+.green {
+  color: green;
+}
+
 .alpha-list {
   list-style-type: upper-alpha;
 }
@@ -990,4 +994,8 @@ pre {
   min-height: 80px;
   height: 80px;
   width: 80px;
+}
+
+.fa-stack-2x {
+  font-size: 1em;
 }
