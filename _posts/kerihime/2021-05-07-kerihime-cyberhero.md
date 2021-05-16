@@ -30,8 +30,6 @@ tag: [公主踢騎士]
 
 - 由於光束有 5 份，而且是針對敵人攻擊，所以基本上是可以打全場的。可是無論突撞還是光束，本身的攻擊範圍都頗有限，所以會經常漏掉王冠，最後拿不到三星成就……
 
-- 一整個配套非常**周回速刷**向+對**無復活**怪向。沒有對 Boss Buff 有點可惜，但是有 Max Power 和對無復活，所以輸出尚可，條件有點苛刻就是。
-
 ![Cyberhero attack1](../img/play/kerihime/cyberhero-attack1.jpg){: .center}
 
 ![Cyberhero attack2](../img/play/kerihime/cyberhero-attack2.jpg){: .center}
@@ -40,6 +38,13 @@ tag: [公主踢騎士]
 
 {: .center-text}
 ↑ 雖遠必誅
+
+- 一整個配套非常**周回速刷**向+對**無復活**怪向。沒有對 Boss Buff 有點可惜，但是有 Max Power 和對無復活，所以輸出尚可，條件有點苛刻就是。
+
+![Cyberhero 999](../img/play/kerihime/cyberhero-999.gif){: .center}
+
+{: .center-text}
+↑ 火力足夠打挑戰 Lv 999
 
 - 打寶船帶真網絡就是個悲劇
 
@@ -51,15 +56,15 @@ tag: [公主踢騎士]
 
 ### 突擊隊長
 
-|                | 真網絡英雄                                                                                                        | 突擊隊長                                                                                            |
-| -------------- | ----------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| **影響範圍**   | <i class="far fa-thumbs-down red" aria-hidden="true"></i> 比較小 (經常漏王冠)                                     | <i class="far fa-thumbs-up green" aria-hidden="true"></i> 比較大 (比較少漏王冠，基本不影響三星成就) |
+|                | 真網絡英雄                                                                                                          | 突擊隊長                                                                                            |
+| -------------- | ------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| **影響範圍**   | <i class="far fa-thumbs-down red" aria-hidden="true"></i> 比較小 (經常漏王冠)                                       | <i class="far fa-thumbs-up green" aria-hidden="true"></i> 比較大 (比較少漏王冠，基本不影響三星成就) |
 | **清小怪能力** | <i class="far fa-thumbs-up green" aria-hidden="true"></i> 光束傷害高，而且會瞄準小兵，一般不需要補刀 (除非怪有復活) | <i class="far fa-thumbs-down red" aria-hidden="true"></i> 爆風傷害很低，有機會殺不死小怪而要補刀    |
-| **復活貫通**   | <i class="far fa-thumbs-down red" aria-hidden="true"></i> 0...                                                    | <i class="far fa-thumbs-up green" aria-hidden="true"></i> 5                                         |
-| **破盾**       | <i class="far fa-thumbs-up green" aria-hidden="true"></i> 有                                                      | <i class="far fa-thumbs-down red" aria-hidden="true"></i> 無                                        |
-| **攻擊次數**   | 較少                                                                                                              | 較多                                                                                                |
-| **動畫時間**   | <i class="far fa-thumbs-up green" aria-hidden="true"></i> 較短                                                    | <i class="far fa-thumbs-down red" aria-hidden="true"></i> 較長                                      |
-| **覺醒**       | 真覺醒                                                                                                            | 普通覺醒 (敬請期待)                                                                                 |
+| **復活貫通**   | <i class="far fa-thumbs-down red" aria-hidden="true"></i> 0...                                                      | <i class="far fa-thumbs-up green" aria-hidden="true"></i> 5                                         |
+| **破盾**       | <i class="far fa-thumbs-up green" aria-hidden="true"></i> 有                                                        | <i class="far fa-thumbs-down red" aria-hidden="true"></i> 無                                        |
+| **攻擊次數**   | 較少                                                                                                                | 較多                                                                                                |
+| **動畫時間**   | <i class="far fa-thumbs-up green" aria-hidden="true"></i> 較短                                                      | <i class="far fa-thumbs-down red" aria-hidden="true"></i> 較長                                      |
+| **覺醒**       | 真覺醒                                                                                                              | 普通覺醒 (敬請期待)                                                                                 |
 
 結論: 各擅勝場，看情況選擇
 
