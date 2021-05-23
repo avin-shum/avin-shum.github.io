@@ -30,11 +30,9 @@ tag: [公主踢騎士]
 
 - 由於光束有 5 份，而且是針對敵人攻擊，所以基本上是可以打全場的。可是無論突撞還是光束，本身的攻擊範圍都頗有限，所以會經常漏掉王冠，最後拿不到三星成就……
 
-![Cyberhero attack1](../img/play/kerihime/cyberhero-attack1.jpg){: .center}
-
-![Cyberhero attack2](../img/play/kerihime/cyberhero-attack2.jpg){: .center}
-
-![Cyberhero attack3](../img/play/kerihime/cyberhero-attack3.jpg){: .center}
+|----|----|
+|![Cyberhero attack1](../img/play/kerihime/cyberhero-attack1.jpg){: .center}|![Cyberhero attack2](../img/play/kerihime/cyberhero-attack2.jpg){: .center}|
+|![Cyberhero attack3](../img/play/kerihime/cyberhero-attack3.jpg){: .center}||
 
 {: .center-text}
 ↑ 雖遠必誅
@@ -50,6 +48,8 @@ tag: [公主踢騎士]
 
 ![Cyberhero ship](../img/play/kerihime/cyberhero-ship.jpg){: .center}
 
+- <span class="red">_(23/5/2021 後記)_</span> 真網絡行動時會跳到目標的另一側，雖然說如果跳到後側會比較安全，但是同時其他支援角色例如**樂父**就很難支援他了，不過還好他下一次行動就會跳回來，總括來說個人認為是弊多於利。而且打部份關卡一跳到後方就有可能會滑到世界盡頭/坑裏 GG……
+
 ## 比較
 
 真網絡個人給他的定位是速刷打小怪用，與之相似的有**突擊隊長**(小飛機)，而光束和**真司令官**(真司令)相似，所以以下會拿他和這兩個職業比較。
@@ -64,20 +64,21 @@ tag: [公主踢騎士]
 | **破盾**       | <i class="far fa-thumbs-up green" aria-hidden="true"></i> 有                                                        | <i class="far fa-thumbs-down red" aria-hidden="true"></i> 無                                        |
 | **攻擊次數**   | 較少                                                                                                                | 較多                                                                                                |
 | **動畫時間**   | <i class="far fa-thumbs-up green" aria-hidden="true"></i> 較短                                                      | <i class="far fa-thumbs-down red" aria-hidden="true"></i> 較長                                      |
-| **覺醒**       | 真覺醒                                                                                                              | 普通覺醒 (敬請期待)                                                                                 |
+| **覺醒**       | 真覺醒                                                                                                              | <i class="far fa-thumbs-up green" aria-hidden="true"></i> 普通覺醒 (敬請期待)                       |
 
 結論: 各擅勝場，看情況選擇
 
 ### 真司令官
 
-|              | 真網絡英雄                                                                       | 真司令官                                                                                          |
-| ------------ | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| **影響範圍** | <i class="far fa-thumbs-up green" aria-hidden="true"></i> 比較大 (突撞+5 條光束) | <i class="far fa-thumbs-down red" aria-hidden="true"></i> 比較小 (只有 1 條光束+爆炸，雖然比較寬) |
-| **傷害**     | <i class="far fa-thumbs-down red" aria-hidden="true"></i> 較低                   | <i class="far fa-thumbs-up green" aria-hidden="true"></i> 較高                                    |
-| **復活貫通** | <i class="far fa-thumbs-down red" aria-hidden="true"></i> 0...                   | <i class="far fa-thumbs-up green" aria-hidden="true"></i> 5                                       |
-| **破盾判定** | <i class="far fa-thumbs-up green" aria-hidden="true"></i> 先破盾後傷害 (光束)    | <i class="far fa-thumbs-down red" aria-hidden="true"></i> 先傷害後破盾                            |
-| **攻擊次數** | 較多                                                                             | 較少                                                                                              |
-| **動畫時間** | 較短                                                                             | 較長 (對硬質化反而有利)                                                                           |
+|              | 真網絡英雄                                                                           | 真司令官                                                                                          |
+| ------------ | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------- |
+| **影響範圍** | <i class="far fa-thumbs-up green" aria-hidden="true"></i> 比較大 (突撞+5 條光束)     | <i class="far fa-thumbs-down red" aria-hidden="true"></i> 比較小 (只有 1 條光束+爆炸，雖然比較寬) |
+| **傷害**     | <i class="far fa-thumbs-down red" aria-hidden="true"></i> 較低                       | <i class="far fa-thumbs-up green" aria-hidden="true"></i> 較高                                    |
+| **復活貫通** | <i class="far fa-thumbs-down red" aria-hidden="true"></i> 0...                       | <i class="far fa-thumbs-up green" aria-hidden="true"></i> 5                                       |
+| **破盾判定** | <i class="far fa-thumbs-up green" aria-hidden="true"></i> 先破盾後傷害 (光束)        | <i class="far fa-thumbs-down red" aria-hidden="true"></i> 先傷害後破盾                            |
+| **攻擊次數** | 較多                                                                                 | 較少                                                                                              |
+| **動畫時間** | 較短                                                                                 | 較長 (對硬質化反而有利)                                                                           |
+| **移動**     | <i class="far fa-thumbs-down red" aria-hidden="true"></i> 每次行動會跳到目標的另一側 | <i class="far fa-thumbs-up green" aria-hidden="true"></i> 不會移動                                |
 
 結論: 兩者分別很微妙
 
