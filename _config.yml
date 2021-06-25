@@ -32,6 +32,7 @@ navbar-links:
   # Work: "work"
   Life:
     - Life - General: "tags/life"
+    - Investment: "tags/investment"
     - Toy: "tags/toy"
     - 公主踢騎士: "tags/公主踢騎士"
     - 大航海時代VI: "tags/大航海時代vi"
