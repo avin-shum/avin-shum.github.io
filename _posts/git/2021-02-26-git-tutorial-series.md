@@ -26,13 +26,14 @@ This page is the content page of this tutorial series. The table of content is k
    4. [Git Init](../2021-04-16-git-repository-set-up/#git-init)
    5. [Git Remote](../2021-04-16-git-repository-set-up/#git-remote)
 2. Git Basics
-   1. The Three States
-   2. Git Commit
-   3. Git Stash
-   4. Git Push
-   5. Git Reset
+   1. [The Three States](../2021-08-13-git-basics/#the-three-states)
+   2. [Git Add](../2021-08-13-git-basics/#git-add)
+   3. [Git Commit](../2021-08-13-git-basics/#git-commit)
+   4. [Git Stash](../2021-08-13-git-basics/#git-stash)
+   5. [Git Reset](../2021-08-13-git-basics/#git-reset)
 3. Git Branches
    1. Basic concept of branch
    2. Git Branch
    3. Git Rebase
    4. Git Merge
+   5. Git Push
