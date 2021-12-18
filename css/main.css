@@ -977,6 +977,10 @@ pre {
   color: green;
 }
 
+.grey {
+  color: grey;
+}
+
 .alpha-list {
   list-style-type: upper-alpha;
 }
