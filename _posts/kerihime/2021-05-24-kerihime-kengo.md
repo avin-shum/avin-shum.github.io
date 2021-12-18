@@ -49,6 +49,8 @@ tag: [公主踢騎士]
 {: .center-text}
 ↑ 86 條命也是一刀的事，彷彿聽到 Boss 在慘叫 <i class="far fa-grin-squint-tears red" aria-hidden="true"></i>
 
+- <span class="grey">_[3Jun2021 後記]_</span> 這裏特別提一下，痺毒刀對寶箱或「襲來！」類高難度關卡 BOSS<span class="red">【無效】</span>！所以在今天開放的「襲来！やみの応援合戦！」就麻不到 Boss 了。
+
 ## 總結
 
 非常優秀的輔助，攻堅幾乎可以盲選他上場。有了他，隊友的選擇可以更多樣化。
