@@ -28,7 +28,8 @@ tag: [公主踢騎士]
   - 特別一提，**屬性破壞對聲稱會造成同屬性傷害的單位也有效**。也就是說，在屬性破壞加持下，**無賴漢**小兵也能造成有利屬性傷害 <i class="far fa-thumbs-up green" aria-hidden="true"></i>。
 - 自爆看似很強大，但是玩到要靠自爆已經是極限玩法 (也許以後會和拳聖一樣會有針對自爆單位的關卡???)，所以下面的描述有可能會忽略自爆的部分。
 - 特別要注意雖然真 SR 能隔著咒符輸出，但是自己會受到反擊，所以打咒符怪的話仍不如**無賴漢**、**真家元**和**真聖騎士**。
-- <span class="red">_[31Jul2021 後記]_</span> 上週的【幻の擬態雷魚を探せ！】出現了新機制【透明】，真 SR 雖然有高 hit 數，但是要注意傷害會被 hit 數攤分，打到最後才有傷害就虧了。
+- <span class="grey">_[31Jul2021 後記]_</span> 上週的【幻の擬態雷魚を探せ！】出現了新機制【透明】，真 SR 雖然有高 hit 數，但是要注意傷害會被 hit 數攤分，打到最後才有傷害就虧了。
+- <span class="grey">_[18Dec2021 後記]_</span> 半年後再回顧，結果後面的真覺醒要同時破盾和打咒符怪都不夠真 SR 順手，這算是他的一大優勢吧 (前提是咒符的反射不能太強……)。
 
 |----|----|
 |![Super robot punch](../img/play/kerihime/super-robot.jpg){: .center}|![Super robot punch limit](../img/play/kerihime/super-robot-limit.jpg){: .center}|
@@ -46,7 +47,7 @@ tag: [公主踢騎士]
 {: .center-text}
 ↑ 打樁機的距離很遠，沒有原覺醒那麼尷尬。
 
-本來想寫寫它有多威，但是實測卻各種不順手……
+本來想寫寫它有多威，但是實測卻各種不順手…… <span class="grey">_[18Dec2021 後記]_</span> 後面的更不順手……<i class="far fa-grin-squint-tears red" aria-hidden="true"></i>
 
 ## 比較
 
@@ -68,3 +69,5 @@ tag: [公主踢騎士]
 ## 總結
 
 簡單點來說是把原版拉到真覺醒的高度，唯一的驚喜是在 SSR 紅關的表現。
+
+<span class="grey">_[18Dec2021 後記]_</span> 能同時破盾和打咒符怪也是一大優點。
