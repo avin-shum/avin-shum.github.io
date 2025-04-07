@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1743955905521,
-  "index": "/atm-branch-locator/index.html",
+  "timestamp": 1744121096861,
+  "index": "/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,12 +11,12 @@
         "ignoreVary": true
       },
       "urls": [
-        "/atm-branch-locator/favicon.ico",
-        "/atm-branch-locator/index.html",
-        "/atm-branch-locator/main-RMJHLESD.js",
-        "/atm-branch-locator/manifest.webmanifest",
-        "/atm-branch-locator/polyfills-EQXJKH7W.js",
-        "/atm-branch-locator/styles-XC2BZL2X.css"
+        "/favicon.ico",
+        "/index.html",
+        "/main-VDNLOLQP.js",
+        "/manifest.webmanifest",
+        "/polyfills-EQXJKH7W.js",
+        "/styles-XC2BZL2X.css"
       ],
       "patterns": []
     },
@@ -28,34 +28,34 @@
         "ignoreVary": true
       },
       "urls": [
-        "/atm-branch-locator/icons/icon-128x128.png",
-        "/atm-branch-locator/icons/icon-144x144.png",
-        "/atm-branch-locator/icons/icon-152x152.png",
-        "/atm-branch-locator/icons/icon-192x192.png",
-        "/atm-branch-locator/icons/icon-384x384.png",
-        "/atm-branch-locator/icons/icon-512x512.png",
-        "/atm-branch-locator/icons/icon-72x72.png",
-        "/atm-branch-locator/icons/icon-96x96.png"
+        "/icons/icon-128x128.png",
+        "/icons/icon-144x144.png",
+        "/icons/icon-152x152.png",
+        "/icons/icon-192x192.png",
+        "/icons/icon-384x384.png",
+        "/icons/icon-512x512.png",
+        "/icons/icon-72x72.png",
+        "/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/atm-branch-locator/favicon.ico": "d0649b829bdb13af3512623fe3ed82bbd530e271",
-    "/atm-branch-locator/icons/icon-128x128.png": "49f0bc37acb46c41b929eb4857800c6d49abd179",
-    "/atm-branch-locator/icons/icon-144x144.png": "122fc09124713e1e9a4b3b91fb2cdfd1c1cd5aaf",
-    "/atm-branch-locator/icons/icon-152x152.png": "ede7575bf1e588d677a44a81191da15ad9d52421",
-    "/atm-branch-locator/icons/icon-192x192.png": "8da4d5ce2c7f510094d43a3de0e9cfb141563df1",
-    "/atm-branch-locator/icons/icon-384x384.png": "9085c4e64ce77f8b506f7e6ceecca7ffe2521e84",
-    "/atm-branch-locator/icons/icon-512x512.png": "86b5165ec1a36287d7cdaef0635b61361a5beac3",
-    "/atm-branch-locator/icons/icon-72x72.png": "b7c2adad386ca49bab5afc3bacf0ba862752502e",
-    "/atm-branch-locator/icons/icon-96x96.png": "290fc1da4c3f508284779f2725922afb32ad4eee",
-    "/atm-branch-locator/index.html": "76bee21a208a6591f43d320558c6d1c19d560756",
-    "/atm-branch-locator/main-RMJHLESD.js": "f93d519403a27b7939dc9aa89f78a235b381c729",
-    "/atm-branch-locator/manifest.webmanifest": "aa1931ffda0f9e2ac3aa96bd987310927c16b5a0",
-    "/atm-branch-locator/polyfills-EQXJKH7W.js": "d8301403135d2a2a157cb2e2394c22f3fc0b5801",
-    "/atm-branch-locator/styles-XC2BZL2X.css": "fdb00ca78cea13d2b5feaa712bdc5877e4a704b8"
+    "/favicon.ico": "d0649b829bdb13af3512623fe3ed82bbd530e271",
+    "/icons/icon-128x128.png": "49f0bc37acb46c41b929eb4857800c6d49abd179",
+    "/icons/icon-144x144.png": "122fc09124713e1e9a4b3b91fb2cdfd1c1cd5aaf",
+    "/icons/icon-152x152.png": "ede7575bf1e588d677a44a81191da15ad9d52421",
+    "/icons/icon-192x192.png": "8da4d5ce2c7f510094d43a3de0e9cfb141563df1",
+    "/icons/icon-384x384.png": "9085c4e64ce77f8b506f7e6ceecca7ffe2521e84",
+    "/icons/icon-512x512.png": "86b5165ec1a36287d7cdaef0635b61361a5beac3",
+    "/icons/icon-72x72.png": "b7c2adad386ca49bab5afc3bacf0ba862752502e",
+    "/icons/icon-96x96.png": "290fc1da4c3f508284779f2725922afb32ad4eee",
+    "/index.html": "7e4c59e01dbf48a45556484150805b1f7df04e26",
+    "/main-VDNLOLQP.js": "a48bfff87cdcd406cdb155e15a8c71a9cd53f88a",
+    "/manifest.webmanifest": "aa1931ffda0f9e2ac3aa96bd987310927c16b5a0",
+    "/polyfills-EQXJKH7W.js": "d8301403135d2a2a157cb2e2394c22f3fc0b5801",
+    "/styles-XC2BZL2X.css": "fdb00ca78cea13d2b5feaa712bdc5877e4a704b8"
   },
   "navigationUrls": [
     {
