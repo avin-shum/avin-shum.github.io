@@ -1,0 +1,11 @@
+<svg width="640" height="640" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" version="1.1">
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_2" fill-rule=" nonzero" fill=" #ED0000" stroke-miterlimit="4" stroke-dashoffset="0" stroke-dasharray=" none" stroke-width="60" d="m91.92504,228.46127c0,58.36278 31.27389,106.14441 63.17842,152.52531q136.92639,207.13086 146.05339,221.33708a19.81177,17.23861 0 0 0 20.08138,8.66275a19.81177,17.23861 0 0 0 20.05142,-8.64538q142.5069,-221.06087 148.19879,-229.66279c28.79896,-43.68737 58.5865,-88.86052 58.5865,-144.22566c0,-109.42695 -102.31419,-198.45257 -228.08494,-198.45257s-228.06496,89.04299 -228.06496,198.46125l-0.00001,0l0.00001,0.00001z" stroke=" #ED0000"/>
+  <rect stroke=" #FFFFFF" id="svg_11" height="327.62481" width="215.26089" y="93.78498" x="212.36957" stroke-dasharray=" none" stroke-width="40" fill=" #ED0000" rx="10" ry="10"/>
+  <rect stroke=" #FFFFFF" id="svg_12" height="86.27521" width="85.24892" y="151.0015" x="277.37554" stroke-dasharray=" none" stroke-width="25" fill=" #FFFFFF" rx="10" ry="10"/>
+  <line stroke=" #FFFFFF" id="svg_15" y2="286.50546" x2="419.52743" y1="286.50546" x1="221.68193" stroke-dasharray=" none" stroke-width="25" fill="none"/>
+  <line stroke=" #FFFFFF" stroke-linecap="round" stroke-linejoin=" miter" id="svg_17" y2="344.97381" x2="366.33112" y1="344.97381" x1="273.66888" stroke-dasharray=" none" stroke-width="30" fill="none"/>
+ </g>
+
+</svg>
