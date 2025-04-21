@@ -1,0 +1,12 @@
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg" version="1.1" xlink="http://www.w3.org/1999/xlink" class="sheet">
+  <radialGradient id="RadialGradient1" cx="0.5" cy="0.85">
+    <stop offset="0%" stop-color="blue" stop-opacity="0.6"/>
+    <stop offset="40%" stop-color="blue" stop-opacity="0.4"/>
+    <stop offset="60%" stop-color="blue" stop-opacity="0.2"/>
+    <stop offset="100%" stop-color="blue" stop-opacity="0.1"/>
+  </radialGradient>
+  <pattern id="my_pattern" viewbox="0 0 200 200" height="200" width="200" patternUnits="userSpaceOnUse">
+    <polygon id="svg_2" points="10,-20 50,50 90,-20" fill="URL(#RadialGradient1)"/>
+  </pattern>
+  <circle transform="rotate(0 50 50)" cx="50" cy="50" r="40" style="  fill: URL(#my_pattern)"/>
+</svg>
