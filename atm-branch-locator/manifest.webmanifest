@@ -1,6 +1,6 @@
 {
-  "name": "ATM locator",
-  "short_name": "ATM locator",
+  "name": "ATM / Branch locator",
+  "short_name": "ATM / Branch locator",
   "theme_color": "#1976d2",
   "background_color": "#1976d2",
   "display": "standalone",
